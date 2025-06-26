@@ -1,8 +1,12 @@
 # projeto - Controle de Gastos pessoais
 
-*Descrição* - Projeto para criação de aplicação de controle de gastos pessoais, utilizando tecnalogias mobile.
+*Descrição* - Tela de Login que conta com dois campos a serem preenchidos indispensavelmente e tendo um campo qu pode ou nãoser preenchido, utilizando tecnalogias mobile.
 
 ## Índice 
 
 ## Tecnalogias
 
+* HTML5
+* CSS3
+
+## Autoria
