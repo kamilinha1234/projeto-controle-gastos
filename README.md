@@ -1,3 +1,7 @@
 # projeto - Controle de Gastos pessoais
 
-*Descrição*
+*Descrição* - Projeto para criação de aplicação de controle de gastos pessoais, utilizando tecnalogias mobile.
+
+## Índice 
+
+## Tecnalogias
